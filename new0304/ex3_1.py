@@ -1,0 +1,1 @@
+print "float count 8.8 * 2", 8.8 * 2
